@@ -42,6 +42,7 @@
   <a href="https://pytorch.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-pytorch-DE3412?style=for-the-badge&logo=pytorch&labelColor=222222"></a>
   <a href="https://www.ultralytics.com"><img src="https://img.shields.io/badge/ultralytics-111F68?style=for-the-badge&logo=ultralytics"></a>
   <a href="https://huggingface.co/"><img alt="Static Badge" src="https://img.shields.io/badge/-huggingface-0B0F19?style=for-the-badge&logo=huggingface"></a>
+  <a href="https://huggingface.co/"><img alt="Static Badge" src="https://img.shields.io/badge/-openrouter-0B0F19?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3BlblJvdXRlcjwvdGl0bGU+PHBhdGggZD0iTTE2Ljc3OCAxLjg0NHYxLjkxOXEtLjU2OS0uMDI2LTEuMTM4LS4wMzItLjcwOC0uMDA4LTEuNDE1LjAzN2MtMS45My4xMjYtNC4wMjMuNzI4LTYuMTQ5IDIuMjM3LTIuOTExIDIuMDY2LTIuNzMxIDEuOTUtNC4xNCAyLjc1LS4zOTYuMjIzLTEuMzQyLjU3NC0yLjE4NS43OTgtLjg0MS4yMjUtMS43NTMuMzMzLTEuNzUxLjMzM3Y0LjIyOXMuNzY4LjEwOCAxLjYxLjMzM2MuODQyLjIyNCAxLjc4OS41NzUgMi4xODUuNzk5IDEuNDEuNzk4IDEuMjI4LjY4MyA0LjE0IDIuNzUgMi4xMjYgMS41MDkgNC4yMiAyLjExIDYuMTQ4IDIuMjM2Ljg4LjA1OCAxLjcxNi4wNDEgMi41NTUuMDA1djEuOTE4bDcuMjIyLTQuMTY4LTcuMjIyLTQuMTd2Mi4xNzZjLS44Ni4wMzgtMS42MTEuMDY1LTIuMjc4LjAyMS0xLjM2NC0uMDktMi40MTctLjM1Ny0zLjk3OS0xLjQ2NS0yLjI0NC0xLjU5My0yLjg2Ni0yLjAyNy0zLjY4LTIuNTA4Ljg4OS0uNTE4IDEuNDQ5LS45MDYgMy44MjItMi41OSAxLjU2LTEuMTA5IDIuNjE0LTEuMzc3IDMuOTc4LTEuNDY2LjY2Ny0uMDQ0IDEuNDE4LS4wMTcgMi4yNzguMDJ2Mi4xNzZMMjQgNi4wMTRaIi8+PC9zdmc+&color=white"></a>
 </div>
 
 ## Profiles
@@ -58,6 +59,7 @@
   <a href="your-twitter-URL"><img alt="Static Badge" src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x"></a>
   <a href="your-instagram-URL"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:halilsan1994@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-FFF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KPHBhdGggZmlsbD0iIzRjYWY1MCIgZD0iTTQ1LDE2LjJsLTUsMi43NWwtNSw0Ljc1TDM1LDQwaDdjMS42NTcsMCwzLTEuMzQzLDMtM1YxNi4yeiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMxZTg4ZTUiIGQ9Ik0zLDE2LjJsMy42MTQsMS43MUwxMywyMy43VjQwSDZjLTEuNjU3LDAtMy0xLjM0My0zLTNWMTYuMnoiPjwvcGF0aD48cG9seWdvbiBmaWxsPSIjZTUzOTM1IiBwb2ludHM9IjM1LDExLjIgMjQsMTkuNDUgMTMsMTEuMiAxMiwxNyAxMywyMy43IDI0LDMxLjk1IDM1LDIzLjcgMzYsMTciPjwvcG9seWdvbj48cGF0aCBmaWxsPSIjYzYyODI4IiBkPSJNMywxMi4yOThWMTYuMmwxMCw3LjVWMTEuMkw5Ljg3Niw4Ljg1OUM5LjEzMiw4LjMwMSw4LjIyOCw4LDcuMjk4LDhoMEM0LjkyNCw4LDMsOS45MjQsMywxMi4yOTh6Ij48L3BhdGg+PHBhdGggZmlsbD0iI2ZiYzAyZCIgZD0iTTQ1LDEyLjI5OFYxNi4ybC0xMCw3LjVWMTEuMmwzLjEyNC0yLjM0MUMzOC44NjgsOC4zMDEsMzkuNzcyLDgsNDAuNzAyLDhoMCBDNDMuMDc2LDgsNDUsOS45MjQsNDUsMTIuMjk4eiI+PC9wYXRoPgo8L3N2Zz4="></a>
+  
 </div>
 
 
